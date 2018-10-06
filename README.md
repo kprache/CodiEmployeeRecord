@@ -1,0 +1,2 @@
+# CodiEmployeeRecord
+Employee attendance Information 
